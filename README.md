@@ -1,3 +1,3 @@
 # Quiz
 Quiz for example admin 2
-Local update2
+update server 3332
